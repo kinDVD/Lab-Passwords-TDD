@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Test User\\source\\repos\\Lab\\Lab-Passwords-TDD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{22E1C989-121A-4452-BB23-5D55AE34E449}|Lab-Passwords-TDD\\Lab-Passwords-TDD.csproj|c:\\users\\test user\\source\\repos\\lab\\lab-passwords-tdd\\lab-passwords-tdd\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22E1C989-121A-4452-BB23-5D55AE34E449}|Lab-Passwords-TDD\\Lab-Passwords-TDD.csproj|solutionrelative:lab-passwords-tdd\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{254E866E-F9BA-4A2A-9B11-F3DF2116239D}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\test user\\source\\repos\\lab\\lab-passwords-tdd\\consoleapp1\\passwordstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{254E866E-F9BA-4A2A-9B11-F3DF2116239D}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\passwordstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{254E866E-F9BA-4A2A-9B11-F3DF2116239D}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\test user\\source\\repos\\lab\\lab-passwords-tdd\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{254E866E-F9BA-4A2A-9B11-F3DF2116239D}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PasswordStorage.cs",
+              "DocumentMoniker": "C:\\Users\\Test User\\source\\repos\\Lab\\Lab-Passwords-TDD\\ConsoleApp1\\PasswordStorage.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\PasswordStorage.cs",
+              "ToolTip": "C:\\Users\\Test User\\source\\repos\\Lab\\Lab-Passwords-TDD\\ConsoleApp1\\PasswordStorage.cs",
+              "RelativeToolTip": "ConsoleApp1\\PasswordStorage.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAAACIAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T18:04:52.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Test User\\source\\repos\\Lab\\Lab-Passwords-TDD\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\Test User\\source\\repos\\Lab\\Lab-Passwords-TDD\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T17:53:44.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Test User\\source\\repos\\Lab\\Lab-Passwords-TDD\\Lab-Passwords-TDD\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "Lab-Passwords-TDD\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\Test User\\source\\repos\\Lab\\Lab-Passwords-TDD\\Lab-Passwords-TDD\\UnitTest1.cs",
+              "RelativeToolTip": "Lab-Passwords-TDD\\UnitTest1.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAcwBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T17:51:49.745Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
